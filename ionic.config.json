@@ -1,6 +1,8 @@
 {
   "name": "appNotepadd",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "c5b5d4e9"
 }
